@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # 设置各变量，WS 路径前缀。(注意:伪装路径不需要 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
-WSPATH=${WSPATH:-'jnkjhnn'}
-UUID=${UUID:-'8478f3aa-7552-45f0-950e-fc537c6b3f7b'}
+WSPATH=${WSPATH:-'bffffcfv'}
+UUID=${UUID:-'4e349717-3d3a-4f30-b825-39cdb6f4a3e1'}
 
 # 安装系统依赖
 check_dependencies() {
